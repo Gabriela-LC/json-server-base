@@ -6,6 +6,20 @@
       "name": "Kenzinho",
       "age": 38,
       "id": 1
+    },
+    {
+      "email": "gabi@mail.com",
+      "password": "$2a$10$X69mFcbHsGVfD.wvVgKLxe2mWvxLM.XFbXzAgZUrM4hio1Btl3mQO",
+      "id": 2
     }
-  ]
+  ],
+  "products": [
+    {
+      "name": "Camiseta Preta",
+      "price": "89.90",
+      "userId": 2,
+      "id": 1
+    }
+  ],
+  "sales": []
 }
